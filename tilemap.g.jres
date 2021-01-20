@@ -54,11 +54,6 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
-    "tile10": {
-        "data": "hwQQABAAAACIiIiIiIiImIiIiIiIiIiYiIiIiIiIiJiIiIiIiIiImIiIiIiIiIiYiIiIiIiIiJiIiIiIiIiImIiIiIiIiIiYiIiIiIiIiJiIiIiIiIiImIiIiIiIiIiYiIiIiIiIiJiIiIiIiIiImIiIiIiIiIiYiIiIiIiIiJiIiIiIiIiImA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true
-    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
